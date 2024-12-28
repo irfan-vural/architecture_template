@@ -15,6 +15,7 @@ dependencies:
   flutter_riverpod: ^2.6.1
   json_annotation: ^4.9.0
   envied: ^1.0.0
+  easy_localization: ^3.0.7
 
 #dependency_overrides:
 #  cupertino_icons: ^1.0.7
@@ -42,3 +43,6 @@ flutter:
 
 widgets:
   path: module/widgets
+
+  assets:
+    - assets/translations

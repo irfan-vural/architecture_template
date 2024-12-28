@@ -13,6 +13,9 @@ class HomeView extends StatefulWidget {
 class _HomeViewState extends State<HomeView> with HomeViewMixin {
   @override
   Widget build(BuildContext context) {
-    return const _HomeAppbar();
+    return const Scaffold(
+      appBar: _HomeAppbar(),
+      body: Column(),
+    );
   }
 }

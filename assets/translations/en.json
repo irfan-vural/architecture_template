@@ -1,0 +1,10 @@
+{
+    "hello": "Merhaba",
+    "home": {
+        "title": "Home Page"
+    },
+    "general": {
+        "title": "General",
+        "save": "Save"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "hello": "Merhaba",
+    "home": {
+        "title": "Anasayfa"
+    },
+    "general": {
+        "title": "Genel",
+        "save": "Kaydet"
+    }
+}
