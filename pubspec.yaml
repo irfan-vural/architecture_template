@@ -18,6 +18,7 @@ dependencies:
   easy_localization: ^3.0.7
   easy_logger: ^0.0.2
   logger: ^2.5.0
+  envied_generator: ^1.0.0
 
 #dependency_overrides:
 #  cupertino_icons: ^1.0.7
